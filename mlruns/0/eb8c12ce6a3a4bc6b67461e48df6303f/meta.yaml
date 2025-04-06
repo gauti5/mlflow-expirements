@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/siddanthapusandeep/Data%20Science/MLOPS/mlruns/0/eb8c12ce6a3a4bc6b67461e48df6303f/artifacts
+end_time: 1743921694925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb8c12ce6a3a4bc6b67461e48df6303f
+run_name: bedecked-dove-502
+run_uuid: eb8c12ce6a3a4bc6b67461e48df6303f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743921692676
+status: 3
+tags: []
+user_id: siddanthapusandeep
